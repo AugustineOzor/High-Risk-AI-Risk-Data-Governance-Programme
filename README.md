@@ -17,7 +17,7 @@ This repository contains a single-file portfolio programme covering:
 - A continuous monitoring programme (daily/weekly/monthly/quarterly cadences) and monitoring workflow
 - A compliance control matrix mapping controls to EU AI Act articles, an evidence package index, and a proposed GitHub repository structure
 
-**Fictional scenario:** The programme governs the **Meridian Talent Intelligence Platform (MTIP)**, a high-risk AI recruitment screening system built for the fictional **Meridian Digital Services**. MTIP ranks and prioritizes job applicants for recruiters based on CVs, employment history, certifications, skills assessments, and interview results — but does not itself hire, reject, or make employment offers; final decisions remain with human recruiters and hiring managers.
+**Scenario:** The programme governs the **Meridian Talent Intelligence Platform (MTIP)**, a high-risk AI recruitment screening system built for the fictional **Meridian Digital Services**. MTIP ranks and prioritizes job applicants for recruiters based on CVs, employment history, certifications, skills assessments, and interview results — but does not itself hire, reject, or make employment offers; final decisions remain with human recruiters and hiring managers.
 
 ## Frameworks referenced
 
